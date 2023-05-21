@@ -1,3 +1,3 @@
 # Mini-projetos-JS
- ## Objetivo:
+ ## Objetivos:
 Melhorar as habilidades de codificação fazendo mini-projetos utilizando HTML5, CSS3 e JavaScript.
